@@ -3,6 +3,13 @@
 - 리포지토리 fork 받기 **(fork 받은 후 sync fork 수시로 해주기!!!)**
 
   ![fork](https://github.com/user-attachments/assets/8ae9f853-1a71-4d98-887c-a4d006aa30e0)
+
+- sync fork 수시로 확인하기
+
+  ![image](https://github.com/user-attachments/assets/d22be9a1-ac4e-4374-bfa5-002a147e528f)
+  
+  -> 위와 같은 모습이면 "Update branch" 눌러주기
+  
 - 커밋 메세지 올린 후 push
 - pull request 작성하기
 - merge는 X
