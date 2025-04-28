@@ -1,6 +1,6 @@
 ## 코딩테스트
 ### 참여하기
-- 리포지토리 fork 받기
+- 리포지토리 fork 받기 **(fork 받은 후 sync fork 수시로 해주기!!!)**
 
   ![fork](https://github.com/user-attachments/assets/8ae9f853-1a71-4d98-887c-a4d006aa30e0)
 - 커밋 메세지 올린 후 push
